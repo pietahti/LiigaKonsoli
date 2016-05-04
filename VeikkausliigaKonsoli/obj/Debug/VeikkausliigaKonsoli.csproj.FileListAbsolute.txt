@@ -1,0 +1,6 @@
+C:\Adafy\Apps\VeikkausliigaKonsoli\VeikkausliigaKonsoli\bin\Debug\VeikkausliigaKonsoli.exe.config
+C:\Adafy\Apps\VeikkausliigaKonsoli\VeikkausliigaKonsoli\bin\Debug\VeikkausliigaKonsoli.exe
+C:\Adafy\Apps\VeikkausliigaKonsoli\VeikkausliigaKonsoli\bin\Debug\VeikkausliigaKonsoli.pdb
+C:\Adafy\Apps\VeikkausliigaKonsoli\VeikkausliigaKonsoli\obj\Debug\VeikkausliigaKonsoli.csprojResolveAssemblyReference.cache
+C:\Adafy\Apps\VeikkausliigaKonsoli\VeikkausliigaKonsoli\obj\Debug\VeikkausliigaKonsoli.exe
+C:\Adafy\Apps\VeikkausliigaKonsoli\VeikkausliigaKonsoli\obj\Debug\VeikkausliigaKonsoli.pdb
